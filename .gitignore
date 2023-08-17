@@ -1,0 +1,10 @@
+/**/*.swp
+/**/.idea
+/**/*.iml
+/**/*~
+
+/**/.DS_Store
+
+/.venv
+/.envrc
+/poetry.lock
