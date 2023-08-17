@@ -5,7 +5,7 @@ Assuming you have `virtualenv` available locally, run the following steps. If yo
 
 ```bash
 virtualenv -p python3.11 .venv/qdrant
-source .venv/hay/bin/activate
+source .venv/qdrant/bin/activate
 pip install --upgrade pip poetry python-lsp-server
 ```
 
